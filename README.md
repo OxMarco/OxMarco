@@ -1,1 +1,1 @@
-Hello visitor! I am Giammarco, currently living in space coordinate Rome and time coordinate Tuesday, December 8, 3:42 PM GMT+1
+Hello visitor! I am Giammarco, currently living in space coordinate Rome and time coordinate Tuesday, 8 December, 15:48 CET
