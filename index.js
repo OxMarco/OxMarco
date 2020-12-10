@@ -9,7 +9,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 let DATA = {
   name: 'Giammarco',
-  location: 'Rome',
+  location: 'London',
   date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
@@ -17,7 +17,7 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Europe/Rome',
+    timeZone: 'Europe/London',
   }),
 };
 /**
