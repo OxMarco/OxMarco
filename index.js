@@ -17,7 +17,7 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Europe/London',
+    timeZone: 'Europe/Brussels',
   }),
 };
 /**
