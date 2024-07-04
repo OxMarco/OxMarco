@@ -9,7 +9,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 let DATA = {
   name: 'Marco',
-  location: 'Berlin',
+  location: 'Valletta',
   date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
